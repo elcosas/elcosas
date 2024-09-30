@@ -6,8 +6,8 @@ Computer Science Major @ UCI
 
 *   🌍  I'm based in Irvine, California
 *   🖥️  See my portfolio at [elcosas.github.io](http://elcosas.github.io/projects)
-<a href="https://www.github.com/elcosas" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/elcosas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.github.com/elcosas" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/elcosas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
