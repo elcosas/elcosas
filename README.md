@@ -70,11 +70,3 @@ I’m currently a sophomore cs student at the University of California, Irvine m
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 </div>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=elcosas&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
