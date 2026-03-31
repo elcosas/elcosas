@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m currently a sophomore cs student at the University of California, Irvine majoring in Computer Science. I have a passion for digital security and software development, doing my best to juggle my time both learning software engineering principals and cybersecurity tactics  
+I’m currently a sophomore cs student at the University of California, Irvine majoring in Computer Science. I have a passion for digital security and software development, and am doing my best to juggle my time both learning both software engineering and cybersecurity principals
   
 
 <br/>  
