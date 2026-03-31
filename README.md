@@ -18,7 +18,7 @@ I’m currently a sophomore cs student at the University of California, Irvine m
 <br/>  
 
 
-## Rapidfire  
+## About Me  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Claw Jail](https://github.com/SeanSan06/claw-jail)  
